@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 # 
-# Video of this screencast: https://vimeo.com/57296525
 # 
 # 
 from __future__ import print_function, division, absolute_import
